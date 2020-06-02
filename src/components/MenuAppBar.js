@@ -52,7 +52,7 @@ export default function MenuAppBar() {
 			</FormGroup>
 			<AppBar position="static">
 				<Toolbar>
-					<IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu" style={{color: 'red'}}>
+					<IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu" style={{color: 'yellow'}}>
 						<MenuIcon />
 					</IconButton>
 					<Typography variant="h6" className={classes.title}>
